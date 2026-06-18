@@ -1,0 +1,25 @@
+Animal Class Test Plan 
+
+Fields of Animal Class
+a. identity: int
+b. species: Species class object
+c. alive: boolean
+d. spotted: boolean
+
+1. Create an Animal Object with the default constructor of Animal class.  
+
+2. Create an Animal Object with the non-default constructor of Animal class.
+   Test cases for non default constructor
+    a. valid fields
+    b. invalid fields
+
+3. Test cases for one get methods:  getIdentity()
+    a. valid field values
+    b. invalid field values
+
+4. Test cases for one set methods:  setIdentity()   
+    a. valid field values
+    b. invalid field values
+
+5. Test case for toString() method to check display of Animal data.
+          

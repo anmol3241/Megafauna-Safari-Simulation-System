@@ -1,0 +1,24 @@
+****** Megafauna Safari Tour Report ******
+
+=====================================
+         Simulation Summary          
+=====================================
+Number of Locations visited: 2
+Number of tourists: 3
+Total number of species sighted: 5
+	1.Megalania 2.Wonambi 3.Genyornis 4.Procoptodon 5.Thylacoleo 
+Total number of animals sighted: 13
+Total number of animals at the locations visited: 45
+Number of tourists inflicted minor injuries: 0
+Number of tourists inflicted major injuries: 1
+Number of tourists' deaths: 1
+
+List of Animals killed during tour:
+	Diprotodon: 0
+	Procoptodon: 0
+	Thylacoleo: 1
+	Megalania: 1
+	Wonambi: 0
+	Genyornis: 0
+
+Tour success rating: 0.00%
